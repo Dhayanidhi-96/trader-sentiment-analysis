@@ -32,7 +32,7 @@ trader-sentiment-analysis/
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Dhayanidhi-96/trader-sentiment-analysis.git
 cd trader-sentiment-analysis
 ```
 
